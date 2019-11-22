@@ -18,3 +18,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Link](www.baidu.com) and ![Image](http://pic44.nipic.com/20140723/18505720_094503373000_2.jpg)
